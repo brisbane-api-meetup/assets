@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 250">
+  <title>white</title>
+  <g id="cube_white" data-name="cube white">
+    <rect id="bg" width="250" height="250" fill="#fff"/>
+    <g id="structure">
+      <g id="circles">
+        <circle cx="25.25" cy="67.64" r="14.96"/>
+        <circle cx="224.75" cy="67.64" r="14.96"/>
+        <circle cx="125" cy="27.74" r="14.96"/>
+        <circle cx="125" cy="107.54" r="14.96"/>
+      </g>
+      <polygon id="bottom_pane" data-name="bottom pane" points="125 157.42 25.25 197.32 125 237.22 224.75 197.32 125 157.42" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="11"/>
+      <polygon id="min_plane_bg" data-name="min plane bg" points="125 137.47 25.25 177.37 125 217.27 224.75 177.37 125 137.47" fill="#fff" opacity="0.7"/>
+      <polygon id="mid_plane" data-name="mid plane" points="125 137.47 25.25 177.37 125 217.27 224.75 177.37 125 137.47" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="11"/>
+      <line id="connector" x1="25.25" y1="67.64" x2="25.25" y2="177.37" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="11"/>
+      <polygon id="top_pane" data-name="top pane" points="125 27.74 25.25 67.64 125 107.54 224.75 67.64 125 27.74" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="11"/>
+    </g>
+  </g>
+</svg>
